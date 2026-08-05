@@ -1,3 +1,7 @@
+<img width="953" height="526" alt="Screenshot 2026-08-06 011034" src="https://github.com/user-attachments/assets/195b3668-5433-4dcd-8938-6d7e3d8f5425" />
+<img width="949" height="530" alt="Screenshot 2026-08-06 011045" src="https://github.com/user-attachments/assets/2002cf09-a694-428d-800f-e5f567308b5b" />
+<img width="951" height="526" alt="Screenshot 2026-08-06 011059" src="https://github.com/user-attachments/assets/84e3e643-09e1-40c7-abff-24ee90a4d8e9" />
+<img width="950" height="531" alt="Screenshot 2026-08-06 011110" src="https://github.com/user-attachments/assets/b0c1446a-9632-46e7-97cd-cd9d2f5fa606" />
 OLASQL — OLA Ride Bookings Analysis (SQL + Power BI)
 
 Hi, I'm Anshika 
