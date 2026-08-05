@@ -1,0 +1,31 @@
+Business / Technical Analysis Questions
+ Q1: What problem does OLASQL solve?
+Answer:OLASQL helps in managing and analyzing ride booking data efficiently. It allows querying structured data like users, rides, drivers, and payments, making it easier to extract insights such as ride frequency, revenue, and user behavior.
+
+ Q2: Why is SQL used in this project instead of NoSQL?
+Answer:SQL is used because the data is highly structured (users, rides, transactions). Relationships between tables (joins) are important, which SQL handles efficiently compared to NoSQL.
+
+ Q3: What kind of queries are most important in this system?
+Answer:Aggregation queries (total rides, revenue)
+Join queries (user + ride + driver info)
+Filtering queries (rides by location/date)
+
+ Q4: How can this system help a business analyst?
+Answer:A business analyst can use this database to:
+
+Identify peak booking hours
+Analyze customer behavior
+Track revenue trends
+Optimize driver allocation
+
+
+ Q5: What improvements can be made in future?
+Answer:Add real-time data processing
+Integrate dashboard (Power BI / Tableau)
+Add predictive analytics (ML models for demand prediction)
+
+
+ Q6: What assumptions were made while designing the database?
+Answer:Each ride is linked to one user and one driver
+Payment is tied to a ride
+Locations are simplified (no geospatial complexity)
